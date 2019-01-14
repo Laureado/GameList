@@ -62,6 +62,18 @@ header{
 	height: 40px;
 }
 
+.navbar{
+	background-color: white;
+	border-bottom: solid 1px grey;
+
+	height: 40px; 
+}
+
+.principal div div{
+	border-left: solid 1px grey;
+}
+
+
 footer{
 	background-color: #656565;
 
