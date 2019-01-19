@@ -69,8 +69,46 @@ header{
 	height: 40px; 
 }
 
-.principal div div{
+.principal div .articles{
 	border-left: solid 1px grey;
+	border-right: solid 1px grey;
+
+}
+
+.articles table{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.vista-juego{
+
+	border: solid 1px grey;
+
+	position: relative;
+	margin: 10px 0px 10px 0px;
+	padding: 10px;
+
+	height: 220px;
+}
+
+.imagen-juego{
+	position: absolute;
+	top: 10px;
+
+	height: 200px; 
+	width: 180px;
+}
+
+.nombre-juego{
+	position: absolute;
+	top: 10px;
+	left: 200px;
+}
+
+.textos-juego{
+	position: absolute;
+	top: 40px;
+	left: 200px;
 }
 
 
